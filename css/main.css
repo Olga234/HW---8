@@ -13,6 +13,12 @@ h1, h2, h3 {
 	font-weight: 700;
 }
 
+h6 {
+	font-size: 15px;
+	font-style: italic;
+	color: #164d7a;
+}
+
 .header {
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4dbdfd+0,378fd9+100 */
 	background: #4dbdfd; /* Old browsers */
@@ -39,7 +45,7 @@ h1, h2, h3 {
 }
 
 .offer {
-	width: 585;
+	width: 585px;
 }
 .logo {
 	width: 100px;
@@ -47,7 +53,7 @@ h1, h2, h3 {
 	
 }
 .titl span {
-	width: 557 px;
+	width: 557px;
 	font-size: 59px;
 }
 .titl {
